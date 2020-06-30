@@ -9,6 +9,7 @@ This repo contains the source code of a blog project that will be used throughou
 
 * clone the project
 * open the index file in a browser
+* perfect colors are constantly sought for U.I
 
 ## Creators
 
